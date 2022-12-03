@@ -1,2 +1,2 @@
 #!/bin/bash
-iwhoami
+chmod +x hello
